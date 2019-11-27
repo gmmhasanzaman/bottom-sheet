@@ -12,7 +12,7 @@
         android:layout_height="wrap_content"
         android:background="@drawable/background_btn"
         android:gravity="center"
-        android:text="Open Bottom Sheet"
+        android:text="@string/open_bottom_sheet"
         android:layout_margin="16dp"
         android:textAppearance="@style/TextAppearance.AppCompat.Medium"
         android:textStyle="bold"

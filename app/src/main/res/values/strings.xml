@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Bottom Sheet</string>
+    <string name="this_is_a_bottom_sheet">This is a Bottom Sheet</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="open_bottom_sheet">Open Bottom Sheet</string>
 </resources>
